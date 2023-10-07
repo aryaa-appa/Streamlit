@@ -12,5 +12,5 @@ st.title("Python Web Application")
 # Add an image
 st.image("https://cdn.wallpapersafari.com/8/85/gb5BPn.jpg", caption="My Image", use_column_width=True)
 
-
+# Comment added
 st.sidebar.success("Options..")

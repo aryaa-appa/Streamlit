@@ -16,3 +16,7 @@ st.image("https://cdn.wallpapersafari.com/8/85/gb5BPn.jpg", caption="My Image", 
 # Comment added
 st.sidebar.success("Options..")
 # Last Comment
+
+# This is the comment that i want to merge with main or master branch
+# Creating and Moving towards dark feeature branch
+# This is my branch(dark-feature) in which i am making changes to push 
